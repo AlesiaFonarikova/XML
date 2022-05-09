@@ -10,6 +10,8 @@
         3.Загрузить любой файл до 50 MB в поле 'Прикрепить файл'
         4.Нажать кнопку 'Сохранить'
     </Steps_to_reproduce>
+    <Expected_result>Файл успешно загружается и сохраняется</Expected_result>
+    <Actual_result>Приложение вылетает при нажатии на кнопку 'Сохранить'</Actual_result>
     <Severity>Блокирующий</Severity>
     <Priority>Высокий</Priority>
     <Assigned_to>Арсений П.</Assigned_to>
