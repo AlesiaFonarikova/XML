@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Personality>
+    <Full_name>
+        <Surname>Фонарикова</Surname>
+        <Name>Алеся</Name>
+        <Patronymic>Александровна</Patronymic>
+    </Full_name>
+    <Age>23</Age>
+    <Pet>
+        <Amount>1</Amount>
+        <Animal>Собака</Animal>
+        <Name>Злата</Name>
+        <Age>6</Age>
+    </Pet>
+    <Preferred_salary>500</Preferred_salary>
+</Personality>
