@@ -1,1 +1,19 @@
-
+<?xml version="1.0"?>
+<New_bug_report>
+    <Bug_ID>34</Bug_ID>
+    <Bug_title>Приложение вылетает при нажатии на кнопку 'Сохранить'</Bug_title>
+    <Build>Version 5.0.3</Build>
+    <Environment>Windows 11, Google Chrome 99.0.4844.84</Environment>
+    <Steps_to_reproduce>
+        1.Зайти на сайт diffiles.com
+        2.Заполнить поля валидными данными:'Имя файла':new,'Дата создания':10.01.2021
+        3.Загрузить любой файл до 50 MB в поле 'Прикрепить файл'
+        4.Нажать кнопку 'Сохранить'
+    </Steps_to_reproduce>
+    <Severity>Блокирующий</Severity>
+    <Priority>Высокий</Priority>
+    <Assigned_to>Арсений П.</Assigned_to>
+    <Reported_by>Алеся Ф.</Reported_by>
+    <Reported_on>13-04-2022</Reported_on>
+    <Status>Новый</Status>
+</New_bug_report>
